@@ -54,9 +54,14 @@ cd task-management-api
 2. Install Dependencies
 The project uses Go modules. To install the required dependencies, run:
 
+```bash
 go mod tidy
+```
 
 
 3. Run the Application
 You can now run the application by executing:
+
+```bash
 go run main.go
+```
